@@ -2,6 +2,8 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+<a href="http://www.github.com/derrick-nguyen"><img align='right' src="https://github-readme-streak-stats.herokuapp.com/?user=namnguyenthanhwork&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <h3> 👨🏻•💻 About Me </h3>
 
 
